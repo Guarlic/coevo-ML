@@ -21,4 +21,4 @@
 
 code by Google Gemini.
 
-judge.py ����Ŭ���Ͽ� �����ϸ� report file�� ������
+judge.py 실행 시 report file 만들어져서 결과 확인 가능
